@@ -8,6 +8,9 @@
       <list>
         <option value="$PROJECT_DIR$/aop/pom.xml" />
         <option value="$PROJECT_DIR$/ex/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/logging/pom.xml" />
+        <option value="$PROJECT_DIR$/tomcat/pom.xml" />
       </list>
     </option>
   </component>
