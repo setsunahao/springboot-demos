@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/05-springboot-exception-server-jdbc-aop-log.iml" filepath="$PROJECT_DIR$/.idea/05-springboot-exception-server-jdbc-aop-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aop/aop.iml" filepath="$PROJECT_DIR$/aop/aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex/ex.iml" filepath="$PROJECT_DIR$/ex/ex.iml" />
+    </modules>
+  </component>
+</project>
