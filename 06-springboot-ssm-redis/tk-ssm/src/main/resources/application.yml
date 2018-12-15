@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.199.121/setsuna_test_db?useSSL=true
+    username: setsuna
+    password: Setsuna_Pisces313!
+mapper:
+  identity: MYSQL
+  not-empty: true
+  mappers:
+    - tk.mybatis.mapper.common.Mapper
+    - tk.mybatis.mapper.common.MySqlMapper
+logging:
+  level:
+    com.example.tkssm.mapper:  debug

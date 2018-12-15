@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/06-springboot-ssm-redis-dubbo.iml" filepath="$PROJECT_DIR$/.idea/06-springboot-ssm-redis-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis/redis.iml" filepath="$PROJECT_DIR$/redis/redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm1/ssm1.iml" filepath="$PROJECT_DIR$/ssm1/ssm1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tk-ssm/tk-ssm.iml" filepath="$PROJECT_DIR$/tk-ssm/tk-ssm.iml" />
+    </modules>
+  </component>
+</project>

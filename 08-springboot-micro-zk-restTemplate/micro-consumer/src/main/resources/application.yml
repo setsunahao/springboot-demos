@@ -1,0 +1,9 @@
+server:
+  port: 8888
+
+spring:
+  cloud:
+    zookeeper:
+      connect-string: 127.0.0.1:2181
+      discovery:
+        register: false

@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: micro-provider
+  cloud:
+    zookeeper:
+      connect-string: 127.0.0.1:2181
+
+logging:
+  level:
+    com.setsuna.clould.demo.provider.mapper:  debug
+
